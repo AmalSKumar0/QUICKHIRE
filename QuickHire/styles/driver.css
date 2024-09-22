@@ -1,0 +1,64 @@
+.searchcard{
+    height:270px;
+}
+.searchcard-content{
+    position: relative;
+    left: calc(3%*2);
+}
+.line{
+    position: relative;
+    left: 20px;top: 0px;
+    height: 100%;
+}
+.cardCont{
+    padding-bottom: 20px;
+}
+.find-button{
+    position: relative;
+    top: 12px;
+    width: auto;
+}
+.search{
+    padding: 0%;
+    position: relative;
+    top: 2px;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+}
+.onlive{
+    position: relative;
+    width: 30%;
+    left: 37%;
+    text-align: center;
+}
+.offline,.change{
+    width: 190px;
+}
+.change span{
+    position: relative;
+    right: 10px;
+}
+.card{
+    border: 2px solid rgb(27, 24, 24);
+}
+.display{
+    display:none;
+}
+.confirmcard{
+    height: 230px;
+}
+.confirm-details{
+    position: relative;
+    left: -21px;
+}
+.confirm-btn{
+    position: relative;
+    height: 20%;
+}
+.request-title{
+    width: 100%;
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
